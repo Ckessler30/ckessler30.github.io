@@ -4124,3 +4124,7 @@ input, select, textarea {
 		margin-bottom: 15px;
 		border-radius: 12px;
 	}
+
+	.newCol{
+		width: 66%;
+	}
