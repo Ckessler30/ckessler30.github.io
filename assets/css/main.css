@@ -4137,3 +4137,7 @@ input, select, textarea {
 		height: 100%;
 		width: 100%;
 	}
+
+	.boldThis{
+		font-weight: 800;
+	}
